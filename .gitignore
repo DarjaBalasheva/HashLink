@@ -9,3 +9,5 @@ static/.DS_Store
 .env
 .cache
 data/
+.idea
+test_main.http
